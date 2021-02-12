@@ -43,7 +43,7 @@ public class JDAbout extends javax.swing.JDialog {
         jLabel1.setBackground(new java.awt.Color(255, 255, 255));
         jLabel1.setFont(new java.awt.Font("Dialog", 0, 14)); // NOI18N
         jLabel1.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel1.setText("Sumburrante");
+        jLabel1.setText("Manguel");
         jPanel1.add(jLabel1);
         jLabel1.setBounds(160, 150, 100, 32);
 
@@ -68,16 +68,16 @@ public class JDAbout extends javax.swing.JDialog {
         jLabel4.setBackground(new java.awt.Color(255, 255, 255));
         jLabel4.setFont(new java.awt.Font("Dialog", 0, 14)); // NOI18N
         jLabel4.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel4.setText("Tangune");
+        jLabel4.setText("Matavele");
         jPanel1.add(jLabel4);
-        jLabel4.setBounds(170, 180, 70, 32);
+        jLabel4.setBounds(160, 182, 80, 30);
 
         jLabel5.setBackground(new java.awt.Color(255, 255, 255));
         jLabel5.setFont(new java.awt.Font("Dialog", 0, 14)); // NOI18N
         jLabel5.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel5.setText("Hele");
+        jLabel5.setText("Cuambe");
         jPanel1.add(jLabel5);
-        jLabel5.setBounds(180, 130, 50, 32);
+        jLabel5.setBounds(160, 130, 70, 32);
 
         jLabel6.setBackground(new java.awt.Color(255, 255, 255));
         jLabel6.setFont(new java.awt.Font("Dialog", 0, 24)); // NOI18N
